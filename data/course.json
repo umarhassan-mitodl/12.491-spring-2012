@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "legacy_uid": "3371470f-19e2-cac5-7c88-d21ca8a0dd7b",
+  "instructors": {
+    "content": [
+      "82356aa7-1b69-5d8e-04e4-065a7b1b7ad5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f71e7405-f02e-b7e0-477c-6ca3e8b3a8cd",
+    "website": "12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012"
+  },
+  "course_title": "Non-conventional Light Stable Isotope Geochemistry",
+  "course_description": "This course is designed for graduate students with an interest in using primary research literature to discuss and learn about current research around non-conventional light stable isotope geochemistry.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.491",
+  "course_image_thumbnail": {
+    "content": "947b635f-46fa-688e-a8e9-634a5143d935",
+    "website": "12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "6b847e33-6d1f-44ef-bb6b-8daebc7f0fad",
+  "site_short_id": "12.491-spring-2012",
+  "site_url_path": "courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012",
+  "title": "Course Metadata"
+}
